@@ -1,4 +1,4 @@
- mohamad bahir khoder ,
+# mohamad bahir khoder ,
 
 
 I'm Bachir
@@ -11,7 +11,7 @@ a programmer
 
 
 
-Education:
+# Education:
 
 >school of rawdet al salam
 >school of lyce generale
