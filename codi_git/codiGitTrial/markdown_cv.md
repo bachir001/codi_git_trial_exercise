@@ -1,4 +1,4 @@
-# mohamad bahir khoder ,
+ mohamad bahir khoder ,
 
 
 I'm Bachir
@@ -7,11 +7,11 @@ a programmer
 
 
 
-![presistent](https://1.bp.blogspot.com/-kec3uMoBU6M/WcnDJmFvABI/AAAAAAAAAG8/sMEobmkuuzghciEa8dPI0qGNM5QyDJZpgCLcBGAs/s1600/Tortoise-and-the-Hare.jpg)
 
 
 
-# Education:
+
+Education:
 
 >school of rawdet al salam
 >school of lyce generale
